@@ -1,7 +1,7 @@
 ### Hi there, I`m Dari!
 
 - 🌱 I’m currently learning Java, HTML, CSS, JavaScript and Angular...
-- - 📫 How to reach me: ... 
+- 📫 How to reach me: https://www.linkedin.com/in/darigineva/
 
 <!--
 
